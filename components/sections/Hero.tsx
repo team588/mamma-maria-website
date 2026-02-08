@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Hero() {
   return (
-    <section className="relative w-full h-screen min-h-[600px]">
+    <section className="relative w-full h-[1040px]">
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
