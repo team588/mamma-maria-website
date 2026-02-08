@@ -64,7 +64,7 @@ export default function Hero() {
         {/* Hero Content */}
         <div className="flex-1 flex items-center">
           <div className="max-w-3xl">
-            <h1 className="text-white text-7xl md:text-8xl font-serif mb-4 leading-tight">
+            <h1 className="text-white text-7xl md:text-8xl font-[family:var(--font-instrument-serif)] font-normal mb-4 leading-[0.64]">
               Dolce Vita
               <br />
               in Oberursel
