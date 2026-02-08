@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="http://localhost:3845/assets/f0d9ad3dc2a1654348422dae890e9a62f4752955.png"
+          src="/hero-bg.png"
           alt="Mamma Maria Restaurant Interior"
           fill
           className="object-cover"
@@ -24,7 +24,7 @@ export default function Hero() {
           {/* Logo */}
           <div className="flex items-center">
             <Image
-              src="http://localhost:3845/assets/b20ee1365323047c54f7de16dc39d74d8a5ebbb7.svg"
+              src="/logo.svg"
               alt="Mamma Maria Bistro Bar"
               width={244}
               height={84}
