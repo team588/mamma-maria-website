@@ -54,7 +54,7 @@ export default function Hero() {
             </Link>
             <Link
               href="#visit"
-              className="px-6 py-2 bg-white/10 hover:bg-white/20 text-white rounded-md transition-colors text-base backdrop-blur-sm"
+              className="px-6 py-2 bg-[#6B7B65] hover:bg-[#7A8A74] text-white rounded-md transition-colors text-base"
             >
               Besuchen Sie uns
             </Link>
